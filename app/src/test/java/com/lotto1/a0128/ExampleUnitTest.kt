@@ -1,4 +1,4 @@
-package com.example.a0128
+package com.lotto1.a0128
 
 import org.junit.Test
 
